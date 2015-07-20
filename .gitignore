@@ -1,0 +1,7 @@
+/build/
+/vendor/
+.DS_Store
+*.php~
+/nbproject/*
+/composer.phar
+/phpunit.xml
